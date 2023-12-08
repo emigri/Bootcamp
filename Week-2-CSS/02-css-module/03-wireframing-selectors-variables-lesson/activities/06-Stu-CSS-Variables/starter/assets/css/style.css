@@ -20,7 +20,7 @@ header {
   padding: 40px;
   text-align: center;
   background: #13293d;
-  color: #fff;
+  color: var(--white-colour);
 }
 
 nav {
@@ -50,7 +50,7 @@ footer {
   padding: 20px;
   text-align: center;
   background: #13293d;
-  color: #fff;
+  color:var(--white-colour);
   margin-top: auto;
 }
 
@@ -75,7 +75,7 @@ footer {
 }
 
 .card > header {
-  border-radius: 50px 50px 0px 0px;
+  border-radius: var(--border-radius);
   padding: 20px;
 }
 
@@ -92,4 +92,9 @@ footer {
   nav {
     flex-direction: column;
   }
+}
+
+:root {
+  --white-colour: #fff;
+  --border-radius: 50px;
 }

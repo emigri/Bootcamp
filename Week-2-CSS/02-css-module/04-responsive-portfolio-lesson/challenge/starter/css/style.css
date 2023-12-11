@@ -21,3 +21,8 @@ h6 {
 p {
   margin: 0;
 }
+
+.header ul li {
+  display: flex;
+  justify-content: en;
+}

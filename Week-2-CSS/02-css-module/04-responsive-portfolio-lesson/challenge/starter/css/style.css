@@ -22,7 +22,35 @@ p {
   margin: 0;
 }
 
-.header ul li {
-  display: flex;
-  justify-content: en;
+/* Header Nav styling */
+
+header {
+  background-color: antiquewhite;
 }
+
+header div ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+
+header div ul li {
+  margin: 0px;
+  padding: 0px;
+}
+
+header div ul li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Hero banner styling */
+
+/* <!-- about me --> */
+
+/* <!-- portfolio container --> */
+
+/*     <!-- contact --> */

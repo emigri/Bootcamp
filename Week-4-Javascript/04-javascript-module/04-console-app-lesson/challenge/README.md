@@ -38,6 +38,8 @@ When you open your code in the browser your resulting analysis should look simil
   Greatest Decrease in Profits/Losses: Sep-2013 ($-2196167)
   ```
 
+console.log(Financial analysis" + '\n' + total months :86)
+
 Your final code should print the analysis to the console.
 
 **Hints:**

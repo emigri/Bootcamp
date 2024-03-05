@@ -1,0 +1,20 @@
+{
+  "name": "ems-json-package",
+  "version": "1.0.0",
+  "description": "practice creating a json package",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "keywords": [
+    "practice",
+    "test",
+    "json",
+    "package"
+  ],
+  "author": "Emigri",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}
